@@ -12,5 +12,5 @@ text = "aappbloegfdshfujsasiffjfak"
 list1 = ['apple', 'orange']
 
 find_words(text, list1)
+find_words(text, list1)
 
-# k
